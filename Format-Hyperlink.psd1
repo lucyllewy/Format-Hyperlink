@@ -98,10 +98,10 @@ PrivateData = @{
         Tags = 'PSEdition_Desktop','PSEdition_Core','Windows','Linux','MacOS','Terminal','Hyperlink','Anchor','Text'
 
         # A URL to the license for this module.
-        LicenseUri = 'https://mit-license.org/'
+        LicenseUri = 'https://raw.githubusercontent.com/diddledani/Format-Hyperlink/main/LICENSE'
 
         # A URL to the main website for this project.
-        # ProjectUri = ''
+        ProjectUri = 'https://github.com/diddledani/Format-Hyperlink'
 
         # A URL to an icon representing this module.
         # IconUri = ''
